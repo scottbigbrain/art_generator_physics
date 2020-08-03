@@ -1,7 +1,7 @@
 # art_generator_physics
 Python program that generates art using physics
 
-![Alt text](art0000.png)
+![Alt text](art/art0000.png)
 
 
 # Depencies
